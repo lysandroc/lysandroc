@@ -1,16 +1,13 @@
-### Hi there 👋
+# Lysandro's Profile
 
-<!--
-**lysandroc/lysandroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at [@Stay22](https://www.stay22.com).
+Based in Montreal, QC, Canada. 🇨🇦
 
-Here are some ideas to get you started:
+I love discussing about general algorithms, performance issues, and system architecture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Twitter: [@lysandroc](https://twitter.com/lysandrocb)  
+LinkedIn: [@lysandroc](https://linkedin.com/in/lysandroc)
+
+Reach out at [lysandroc@gmail.com](mailto:lysandroc@gmail.com)
+
+For more details [check this out](https://lysandroc.github.io).
