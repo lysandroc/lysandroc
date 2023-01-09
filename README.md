@@ -8,6 +8,6 @@ I love discussing about general algorithms, performance issues, and system archi
 Twitter: [@lysandroc](https://twitter.com/lysandrocb)  
 LinkedIn: [@lysandroc](https://linkedin.com/in/lysandroc)
 
-Reach out at [lysandroc@gmail.com](mailto:lysandroc@gmail.com)
+Reach me out at [lysandroc@gmail.com](mailto:lysandroc@gmail.com)
 
 For more details [check this out](https://lysandroc.github.io).
