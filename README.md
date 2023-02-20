@@ -3,7 +3,7 @@
 Software Engineer at [@Stay22](https://www.stay22.com).
 Based in Montreal, QC, Canada. 🇨🇦
 
-I love discussing about general algorithms, performance issues, and system architecture. 
+I enjoy talking about algorithms in general, performance issues, and system architecture.
 
 Twitter: [@lysandroc](https://twitter.com/lysandrocb)  
 LinkedIn: [@lysandroc](https://linkedin.com/in/lysandroc)
